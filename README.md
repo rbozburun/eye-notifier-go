@@ -19,3 +19,6 @@ This CLI app reminds to look at different place without digital screen to protec
 ```
     
     
+
+## ToDo
+- Run as daemon
