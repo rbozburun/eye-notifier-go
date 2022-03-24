@@ -1,7 +1,7 @@
 
 # eye-notifier-go
 
-This CLI app reminds with a  [beeep](https://github.com/gen2brain/beeep) sound. to look at different place without digital screen to protect eye health.
+This CLI app reminds with a [beeep](https://github.com/gen2brain/beeep) sound every 20 mins to look at different place without digital screen to protect eye health.
 
 ![Screenshot](notification.png)
 
